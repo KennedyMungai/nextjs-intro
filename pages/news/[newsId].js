@@ -1,4 +1,4 @@
-const [newsId] = () => 
+const DynamicPage = () => 
 {
     return
     (
@@ -6,4 +6,4 @@ const [newsId] = () =>
     )
 }
 
-export default [newsId]
+export default DynamicPage
