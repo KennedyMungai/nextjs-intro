@@ -7,7 +7,7 @@ const DynamicPage = () =>
     const newsId = router.query.newsId
 
     return(
-        <h1>This is meant to be a dynamic page</h1>
+        <h1>{newsId}</h1>
     )
 }
 
