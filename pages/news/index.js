@@ -4,14 +4,14 @@ const newsPage = () =>
     <h1>The News Page</h1>
     <ul>
       <li>
-      <a href="">
-        NextJS is a great framework
-      </a>
+        <a href="/news/nextjs-is-a-great-framework">
+          NextJS is a great framework
+        </a>
       </li>
       <li>
-      <a href="">
-        Something in the way
-      </a>
+        <a href="/news/something-in-the-way">
+          Something in the way
+        </a>
       </li>
     </ul>
   </>
